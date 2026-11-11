@@ -1,0 +1,15 @@
+:root {
+    --brand: green;
+    --surface: #eef6ff;
+    --space: 1rem;
+}
+
+body {
+    font-family: Arial;
+    background: var(--surface);
+    padding: var(--space);
+}
+
+h1 {
+    color: var(--brand);
+}
