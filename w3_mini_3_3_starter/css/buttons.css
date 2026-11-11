@@ -1,0 +1,11 @@
+.primary-btn {
+    border: 0;
+    border-radius: 4px;
+    padding: 10px 16px;
+    background: #17496f;
+    color: white;
+}
+
+.primary-btn-clicked {
+    background: #8b2f68;
+}
